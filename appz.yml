@@ -37,4 +37,4 @@
           vault: MYSQL_WORDPRESS_PASSWORD
         MYSQL_MBK_PASSWORD:
           vault: MYSQL_MBK_PASSWORD
-        revision : 27
+        revision : 28
